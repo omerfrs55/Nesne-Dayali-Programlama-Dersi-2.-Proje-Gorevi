@@ -1,1 +1,0 @@
-# Nesne-Dayali-Programlama-Dersi-2.-Proje-Gorevi
