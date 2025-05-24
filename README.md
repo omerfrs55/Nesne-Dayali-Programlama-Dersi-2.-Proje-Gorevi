@@ -4,9 +4,9 @@ Bu proje, Java programlama dili kullanılarak geliştirilmiş bir uçak rezervas
 
 ## Programı Çalıştırmak İçin:
 
-1)_ Programı zip şeklinde indiriniz.
-2)_ Ardından içindeki klasörü masaüstü ya da çalıştırmak istediğiniz yere sürükleyip bırakınız.
-3)_ Hangi IDE de çalıştıracaksanız o IDE içinde "file -> open folder (Dosyayı aç)" diyerek dosyanın içindeki ucakRezervasyon yazılı klasörü açınız.
+1)_ Programı zip şeklinde indiriniz.<p>
+2)_ Ardından içindeki klasörü masaüstü ya da çalıştırmak istediğiniz yere sürükleyip bırakınız.<p>
+3)_ Hangi IDE de çalıştıracaksanız o IDE içinde "file -> open folder (Dosyayı aç)" diyerek dosyanın içindeki ucakRezervasyon yazılı klasörü açınız.<p>
 4)_ Ardından dosya içinde olan Main.java yı seçip çalıştır butonuna tıklayınız.
 
 ## Özellikler
