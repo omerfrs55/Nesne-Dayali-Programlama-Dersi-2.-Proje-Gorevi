@@ -129,3 +129,9 @@ Dosya işlemlerini yöneten sınıf.
 - Tüm sınıflar arası iletişim Java nesneleri üzerinden yapılır
 - Veri kalıcılığı JSON dosyaları ile sağlanır
 - Kullanıcı arayüzü konsol tabanlıdır
+
+## Programı Yazan Kişi Hakkında Bilgiler
+- AD:Ömer Faruk
+- SOYAD:Sağlam
+- OKUL NO:20230108011
+- Bölüm: Bilgisayar Programcılığı
