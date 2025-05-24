@@ -131,7 +131,7 @@ Dosya işlemlerini yöneten sınıf.
 - Kullanıcı arayüzü konsol tabanlıdır
 
 ## Programı Yazan Kişi Hakkında Bilgiler
-- AD:Ömer Faruk
-- SOYAD:Sağlam
-- OKUL NO:20230108011
+- Ad: Ömer Faruk
+- Soyad: Sağlam
+- Okul No: 20230108011
 - Bölüm: Bilgisayar Programcılığı
