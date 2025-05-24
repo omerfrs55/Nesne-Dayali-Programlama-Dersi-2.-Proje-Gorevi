@@ -129,3 +129,12 @@ Dosya işlemlerini yöneten sınıf.
 - Tüm sınıflar arası iletişim Java nesneleri üzerinden yapılır
 - Veri kalıcılığı JSON dosyaları ile sağlanır
 - Kullanıcı arayüzü konsol tabanlıdır
+
+## Proje Sahibi Hakkında Bilgiler
+- Ad Soyad: Ömer Faruk Sağlam
+- Öğrenci Numarası: 20230108011
+- Bölüm: Bilgisayar Programcılığı
+- Ders Adı: Nesneye Dayalı Programlama 1
+- Ders Kodu: BIP1026
+- Öğretim Görevlisi: Emrah SARIÇİÇEK
+- Teslim Tarihi: 24/05/2025
