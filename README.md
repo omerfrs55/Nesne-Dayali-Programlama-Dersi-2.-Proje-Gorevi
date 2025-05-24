@@ -2,6 +2,13 @@
 
 Bu proje, Java programlama dili kullanılarak geliştirilmiş bir uçak rezervasyon sistemidir. Sistem, kullanıcıların uçuş seçimi yapmasına, koltuk rezervasyonu yapmasına ve mevcut rezervasyonlarını görüntülemesine olanak sağlar.
 
+## Programı Çalıştırmak İçin:
+
+1)_ Programı zip şeklinde indiriniz.
+2)_ Ardından içindeki klasörü masaüstü ya da çalıştırmak istediğiniz yere sürükleyip bırakınız.
+3)_ Hangi IDE de çalıştıracaksanız o IDE içinde "file -> open folder (Dosyayı aç)" diyerek dosyanın içindeki ucakRezervasyon yazılı klasörü açınız.
+4)_ Ardından dosya içinde olan Main.java yı seçip çalıştır butonuna tıklayınız.
+
 ## Özellikler
 
 - Uçuş listesi görüntüleme
